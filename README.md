@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-  - [Company Website]([https://github.com/emina171/LABURL](https://github.com/emina171/CompanyWebsite/tree/main))
+  - [Company Website]([[https://github.com/emina171/LABURL](https://github.com/emina171/CompanyWebsite/tree/main](https://github.com/emina171/CompanyWebsite)))
 
 <h2>📃 Certifications</h2>
 
